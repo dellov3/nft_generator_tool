@@ -1,0 +1,27 @@
+{
+  "overview": "Studio Art Engine is a professional, high-fidelity NFT generative art platform for advanced and institutional creators. It enables users to build, manage, and export large-scale NFT collections with advanced trait, rarity, and rules management — featuring pixel-perfect Apple-grade UI/UX, Liquid Glass effects, and direct IPFS (Pinata) integration.",
+  "features": [
+    "Layer-based NFT generation with drag-and-drop traits",
+    "Advanced rarity workshop with precision sliders and auto-balancing",
+    "Trait incompatibility rules engine",
+    "Real-time canvas preview with blend modes and GIF support",
+    "Forge / Genesis Craft for 1-of-1 NFTs",
+    "Vault with faceted filtering, rarity ranking, and bulk export",
+    "IPFS publishing via Pinata with full folder-based workflow",
+    "OpenSea CSV and metadata generation",
+    "Apple-grade UI with Liquid Glass effects and premium motion system",
+    "Support for Ethereum, Polygon, Base, BNB, and Solana metadata standards"
+  ],
+  "category": "productivity",
+  "tags": [
+    "nft",
+    "generative-art",
+    "web3",
+    "ipfs",
+    "blockchain",
+    "pixel-art",
+    "apple-design",
+    "collection-builder"
+  ],
+  "last_updated": "2026-04-10T00:42:47.650Z"
+}
